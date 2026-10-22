@@ -11,7 +11,7 @@ e:I[7150,[],""]
 :HL["/_next/static/media/558ca1a6aa3cb55e-s.p.woff2","font",{"crossOrigin":"","type":"font/woff2"}]
 :HL["/_next/static/media/db234bd00cda6a96-s.p.woff2","font",{"crossOrigin":"","type":"font/woff2"}]
 :HL["/_next/static/css/8c8fd3aae0aa6baf.css","style"]
-a:Tbd1,
+a:T1067,
 A HD texture pack for [Jet Force Gemini: Recompiled](/projects/jfg-recomp) using Real-ESRGAN for upscaling.
 
 Please refer to [Texture Pack Doc](https://github.com/VibinToast/JetForceGemini-Recomp/blob/main/docs/TEXTURE_PACKS.md) to get started creating your own.
@@ -56,21 +56,31 @@ Drag the slider across each picture to compare the original textures with the HD
 
 ## Download
 
-- [4K HD Texture Pack (OLD)](https://mega.nz/file/p3Qj1ZhA#WBZlIXET2JZwjXtmQi84StsxT0M5Nk3a04e6MBj3_Kw) (zip, 4.4 GB)
+The easiest way is the game's launcher (Recompiled 1.2 or later): turn on **Check for Updates** and **Official HD
+Texture Pack**, and it downloads and installs the pack, and offers an **Update** when a new version is out.
 
-- [2K HD Texture Pack](https://github.com/VibinToast/JetForceGemini-HD_TexturePack/releases/download/v1.0.0.0/2K-Toasty-HD.rtz) (rtz, 1.0 GB)
+Or download one pack by hand:
 
-- [1K HD Texture Pack](https://github.com/VibinToast/JetForceGemini-HD_TexturePack/releases/download/v1.0.0.0/1K-Toasty-HD.rtz) (rtz, 250 MB) (Recommended for most!)
+- [1K HD Texture Pack v1.1.1](https://github.com/VibinToast/JetForceGemini-HD_TexturePack/releases/download/v1.1.1/Official_Recomp_HD-1K_v1.1.1.rtz) (rtz, 198 MB) (Recommended for most!)
 
-This is the 4K pack. 2K and 1K versions will come later.
+- [2K HD Texture Pack v1.1.1](https://github.com/VibinToast/JetForceGemini-HD_TexturePack/releases/download/v1.1.1/Official_Recomp_HD-2K_v1.1.1.rtz) (rtz, 782 MB)
+
+- 4K HD Texture Pack v1.1.0 (rtz, 3.0 GB, in two parts): [part 1](https://github.com/VibinToast/JetForceGemini-HD_TexturePack/releases/download/v1.1.1/Official_Recomp_HD-4K_v1.1.0.rtz.001) and [part 2](https://github.com/VibinToast/JetForceGemini-HD_TexturePack/releases/download/v1.1.1/Official_Recomp_HD-4K_v1.1.0.rtz.002). Download both.
+
+All files are on the [latest release](https://github.com/VibinToast/JetForceGemini-HD_TexturePack/releases/latest).
 
 ## Install
 
-Unzip the pack into the folder that holds the game's executable, so it ends up looking like this:
+Put the `.rtz` file in the game's `texture_packs` folder, then pick it on the Textures page or press F6 in game to
+cycle through packs. The launcher's **Open Texture Packs Folder** button opens the folder for you.
 
-```
-texture_packs\texture_name.rtz
-```
+- **Windows:** `texture_packs\` next to `JetForceGeminiRecompiled.exe`
+- **Linux AppImage and Steam Deck:** `~/.local/share/JetForceGeminiRecompiled/texture_packs/`
+- **Linux portable (tar.gz):** `texture_packs/` inside the game folder
+
+**4K:** put both parts in `texture_packs`. The game joins them into one pack by itself the next time it starts, then
+removes the parts. To join them yourself, see the
+[texture pack README](https://github.com/VibinToast/JetForceGemini-HD_TexturePack#the-4k-pack-comes-in-two-parts).
 
 ## Early Alpha
 
@@ -128,7 +138,7 @@ The port uses [N64Recomp](https://github.com/N64Recomp/N64Recomp) to translate t
 - N64Recomp, N64ModernRuntime, RT64 and their contributors
 
 <p class="muted">This project was built with heavy help from AI (Claude), under the direction of the project owner. Jet Force Gemini and its logos belong to their rights holders; this project is not affiliated with or endorsed by them. The code is licensed under GPL v3.</p>
-0:{"P":null,"b":"GzC1wp43EDUzo2uSkz9Oo","p":"","c":["",""],"i":false,"f":[[["",{"children":["__PAGE__",{}]},"$undefined","$undefined",true],["",["$","$1","c",{"children":[[["$","link","0",{"rel":"stylesheet","href":"/_next/static/css/8c8fd3aae0aa6baf.css","precedence":"next","crossOrigin":"$undefined","nonce":"$undefined"}]],["$","html",null,{"lang":"en","className":"__variable_571da3 __variable_ee06cb","suppressHydrationWarning":true,"children":["$","body",null,{"children":[["$","style",null,{"children":"\n          html, body { min-height: 100%; }\n          .page-shell { position: relative; z-index: 1; display: flex; flex-direction: column; min-height: 100vh; }\n          .page-main { flex: 1 0 auto; }\n          footer { flex-shrink: 0; }\n        "}],["$","$L2",null,{"children":["$","div",null,{"className":"page-shell","children":[["$","$L3",null,{"usedCategories":["recomp","textures"]}],["$","main",null,{"className":"page-main","children":["$","$L4",null,{"parallelRouterKey":"children","error":"$undefined","errorStyles":"$undefined","errorScripts":"$undefined","template":["$","$L5",null,{}],"templateStyles":"$undefined","templateScripts":"$undefined","notFound":[["$","section",null,{"className":"section narrow fade-in","children":[["$","h1",null,{"children":"404"}],["$","p",null,{"className":"muted","children":"That page doesn't exist."}],["$","p",null,{"children":["$","$L6",null,{"href":"/","children":"Back to the front page"}]}]]}],[]],"forbidden":"$undefined","unauthorized":"$undefined"}]}],["$","footer",null,{"className":"site-footer","children":["$","p",null,{"children":["© ",2026," ","VibinToast"," · ","Recomp, Decomp, Hacks & Texture Packs"]}]}]]}]}]]}]}]]}],{"children":["__PAGE__",["$","$1","c",{"children":[["$","section",null,{"className":"section wide hero fade-in","children":[["$","$L7",null,{}],["$","h1",null,{"className":"cursor","children":[["$","span",null,{"className":"name-vibin","children":"Vibin"}],["$","span",null,{"className":"name-toast","children":"Toast"}]]}],["$","p",null,{"className":"lead","children":"Hi, I'm VibinToast! I take old games apart and put them back together. Here you'll find my recompilation and decompilation projects, plus the texture packs I make along the way."}],["$","$L8",null,{"usedCategories":["recomp","textures"]}],["$","$L9",null,{"projects":[{"slug":"jfg-4k","title":"Jet Force Gemini 4K Texture Pack","excerpt":"A 4K texture pack for Jet Force Gemini: Recompiled. Early alpha, so expect visual bugs. 2K and 1K versions will follow.","category":"textures","date":"2026-10-10","tags":["Early alpha"],"content":"$a"},{"slug":"jfg-recomp","title":"Jet Force Gemini: Recompiled","excerpt":"A native PC port of Jet Force Gemini (N64, US) for Windows and Linux, made by static recompilation. 100% playable, with modern controls, widescreen and HD texture pack support.","category":"recomp","date":"2026-10-10","tags":["100% playable","Mouse + keyboard"],"content":"$b"}]}]]}],null,"$Lc"]}],{},null,false]},null,false],"$Ld",false]],"m":"$undefined","G":["$e",[]],"s":false,"S":true}
+0:{"P":null,"b":"yFlobkRD6Wco-Qm0MZ9Bv","p":"","c":["",""],"i":false,"f":[[["",{"children":["__PAGE__",{}]},"$undefined","$undefined",true],["",["$","$1","c",{"children":[[["$","link","0",{"rel":"stylesheet","href":"/_next/static/css/8c8fd3aae0aa6baf.css","precedence":"next","crossOrigin":"$undefined","nonce":"$undefined"}]],["$","html",null,{"lang":"en","className":"__variable_571da3 __variable_ee06cb","suppressHydrationWarning":true,"children":["$","body",null,{"children":[["$","style",null,{"children":"\n          html, body { min-height: 100%; }\n          .page-shell { position: relative; z-index: 1; display: flex; flex-direction: column; min-height: 100vh; }\n          .page-main { flex: 1 0 auto; }\n          footer { flex-shrink: 0; }\n        "}],["$","$L2",null,{"children":["$","div",null,{"className":"page-shell","children":[["$","$L3",null,{"usedCategories":["recomp","textures"]}],["$","main",null,{"className":"page-main","children":["$","$L4",null,{"parallelRouterKey":"children","error":"$undefined","errorStyles":"$undefined","errorScripts":"$undefined","template":["$","$L5",null,{}],"templateStyles":"$undefined","templateScripts":"$undefined","notFound":[["$","section",null,{"className":"section narrow fade-in","children":[["$","h1",null,{"children":"404"}],["$","p",null,{"className":"muted","children":"That page doesn't exist."}],["$","p",null,{"children":["$","$L6",null,{"href":"/","children":"Back to the front page"}]}]]}],[]],"forbidden":"$undefined","unauthorized":"$undefined"}]}],["$","footer",null,{"className":"site-footer","children":["$","p",null,{"children":["© ",2026," ","VibinToast"," · ","Recomp, Decomp, Hacks & Texture Packs"]}]}]]}]}]]}]}]]}],{"children":["__PAGE__",["$","$1","c",{"children":[["$","section",null,{"className":"section wide hero fade-in","children":[["$","$L7",null,{}],["$","h1",null,{"className":"cursor","children":[["$","span",null,{"className":"name-vibin","children":"Vibin"}],["$","span",null,{"className":"name-toast","children":"Toast"}]]}],["$","p",null,{"className":"lead","children":"Hi, I'm VibinToast! I take old games apart and put them back together. Here you'll find my recompilation and decompilation projects, plus the texture packs I make along the way."}],["$","$L8",null,{"usedCategories":["recomp","textures"]}],["$","$L9",null,{"projects":[{"slug":"jfg-4k","title":"Jet Force Gemini HD Texture Pack","excerpt":"HD texture packs for Jet Force Gemini: Recompiled in 1K, 2K and 4K. Early alpha, so expect visual bugs.","category":"textures","date":"2026-10-10","tags":["Early alpha"],"content":"$a"},{"slug":"jfg-recomp","title":"Jet Force Gemini: Recompiled","excerpt":"A native PC port of Jet Force Gemini (N64, US) for Windows and Linux, made by static recompilation. 100% playable, with modern controls, widescreen and HD texture pack support.","category":"recomp","date":"2026-10-10","tags":["100% playable","Mouse + keyboard"],"content":"$b"}]}]]}],null,"$Lc"]}],{},null,false]},null,false],"$Ld",false]],"m":"$undefined","G":["$e",[]],"s":false,"S":true}
 f:I[4431,[],"OutletBoundary"]
 11:I[5278,[],"AsyncMetadataOutlet"]
 13:I[4431,[],"ViewportBoundary"]
