@@ -11,7 +11,7 @@ e:I[7150,[],""]
 :HL["/_next/static/media/558ca1a6aa3cb55e-s.p.woff2","font",{"crossOrigin":"","type":"font/woff2"}]
 :HL["/_next/static/media/db234bd00cda6a96-s.p.woff2","font",{"crossOrigin":"","type":"font/woff2"}]
 :HL["/_next/static/css/8c8fd3aae0aa6baf.css","style"]
-a:T1067,
+a:T1087,
 A HD texture pack for [Jet Force Gemini: Recompiled](/projects/jfg-recomp) using Real-ESRGAN for upscaling.
 
 Please refer to [Texture Pack Doc](https://github.com/VibinToast/JetForceGemini-Recomp/blob/main/docs/TEXTURE_PACKS.md) to get started creating your own.
@@ -22,37 +22,37 @@ Github: [Jet Force Gemini HD Texture Pack](https://github.com/VibinToast/JetForc
 
 Drag the slider across each picture to compare the original textures with the HD pack. Use the Fullscreen button for a closer look; the arrows there step through the pictures.
 
-<Compare hd="/textures/jungle-HD.png" og="/textures/jungle-OG.png" caption="Jungle" alt="Jungle" />
+<Compare hd="/textures/jungle-HD.webp" og="/textures/jungle-OG.webp" caption="Jungle" alt="Jungle" />
 
-<Compare hd="/textures/tunnel-HD.png" og="/textures/tunnel-OG.png" caption="Tunnel" alt="Tunnel" />
+<Compare hd="/textures/tunnel-HD.webp" og="/textures/tunnel-OG.webp" caption="Tunnel" alt="Tunnel" />
 
-<Compare hd="/textures/waterruin-HD.png" og="/textures/waterruin-OG.png" caption="Water ruin" alt="Water ruin" />
+<Compare hd="/textures/waterruin-HD.webp" og="/textures/waterruin-OG.webp" caption="Water ruin" alt="Water ruin" />
 
-<Compare hd="/textures/underwater-HD.png" og="/textures/underwater-OG.png" caption="Underwater" alt="Underwater" />
+<Compare hd="/textures/underwater-HD.webp" og="/textures/underwater-OG.webp" caption="Underwater" alt="Underwater" />
 
-<Compare hd="/textures/mines-HD.png" og="/textures/mines-OG.png" caption="Mines" alt="Mines" />
+<Compare hd="/textures/mines-HD.webp" og="/textures/mines-OG.webp" caption="Mines" alt="Mines" />
 
-<Compare hd="/textures/cargo-HD.png" og="/textures/cargo-OG.png" caption="Cargo" alt="Cargo" />
+<Compare hd="/textures/cargo-HD.webp" og="/textures/cargo-OG.webp" caption="Cargo" alt="Cargo" />
 
-<Compare hd="/textures/dog_HD.png" og="/textures/dog_OG.png" caption="Dog" alt="Dog" />
+<Compare hd="/textures/dog_HD.webp" og="/textures/dog_OG.webp" caption="Dog" alt="Dog" />
 
-<Compare hd="/textures/inside-HD.png" og="/textures/inside-OG.png" caption="Inside" alt="Inside" />
+<Compare hd="/textures/inside-HD.webp" og="/textures/inside-OG.webp" caption="Inside" alt="Inside" />
 
-<Compare hd="/textures/mizar-HD.png" og="/textures/mizar-OG.png" caption="Mizar" alt="Mizar" />
+<Compare hd="/textures/mizar-HD.webp" og="/textures/mizar-OG.webp" caption="Mizar" alt="Mizar" />
 
-<Compare hd="/textures/beforemizar-HD.png" og="/textures/beforemizar-OG.png" caption="Before Mizar" alt="Before Mizar" />
+<Compare hd="/textures/beforemizar-HD.webp" og="/textures/beforemizar-OG.webp" caption="Before Mizar" alt="Before Mizar" />
 
-<Compare hd="/textures/ants-HD.png" og="/textures/ants-OG.png" caption="Ants" alt="Ants" />
+<Compare hd="/textures/ants-HD.webp" og="/textures/ants-OG.webp" caption="Ants" alt="Ants" />
 
-<Compare hd="/textures/dogchasm-HD.png" og="/textures/dogchasm-OG.png" caption="Dog chasm" alt="Dog chasm" />
+<Compare hd="/textures/dogchasm-HD.webp" og="/textures/dogchasm-OG.webp" caption="Dog chasm" alt="Dog chasm" />
 
-<Compare hd="/textures/hideout-HD.png" og="/textures/hideout-OG.png" caption="Hideout" alt="Hideout" />
+<Compare hd="/textures/hideout-HD.webp" og="/textures/hideout-OG.webp" caption="Hideout" alt="Hideout" />
 
-<Compare hd="/textures/ship-HD.png" og="/textures/ship-OG.png" caption="Ship" alt="Ship" />
+<Compare hd="/textures/ship-HD.webp" og="/textures/ship-OG.webp" caption="Ship" alt="Ship" />
 
-<Compare hd="/textures/vela_pyramid-HD.png" og="/textures/vela_pyramid-OG.png" caption="Vela pyramid" alt="Vela pyramid" />
+<Compare hd="/textures/vela_pyramid-HD.webp" og="/textures/vela_pyramid-OG.webp" caption="Vela pyramid" alt="Vela pyramid" />
 
-<Compare hd="/textures/waterfall-HD.png" og="/textures/waterfall-OG.png" caption="Waterfall" alt="Waterfall" />
+<Compare hd="/textures/waterfall-HD.webp" og="/textures/waterfall-OG.webp" caption="Waterfall" alt="Waterfall" />
 
 ## Download
 
@@ -153,7 +153,7 @@ The port uses [N64Recomp](https://github.com/N64Recomp/N64Recomp) to translate t
 - N64Recomp, N64ModernRuntime, RT64 and their contributors
 
 <p class="muted">This project was built with heavy help from AI (Claude), under the direction of the project owner. Jet Force Gemini and its logos belong to their rights holders; this project is not affiliated with or endorsed by them. The code is licensed under GPL v3.</p>
-0:{"P":null,"b":"nKon9Dcyg6iMpPe01NSTQ","p":"","c":["",""],"i":false,"f":[[["",{"children":["__PAGE__",{}]},"$undefined","$undefined",true],["",["$","$1","c",{"children":[[["$","link","0",{"rel":"stylesheet","href":"/_next/static/css/8c8fd3aae0aa6baf.css","precedence":"next","crossOrigin":"$undefined","nonce":"$undefined"}]],["$","html",null,{"lang":"en","className":"__variable_571da3 __variable_ee06cb","suppressHydrationWarning":true,"children":["$","body",null,{"children":[["$","style",null,{"children":"\n          html, body { min-height: 100%; }\n          .page-shell { position: relative; z-index: 1; display: flex; flex-direction: column; min-height: 100vh; }\n          .page-main { flex: 1 0 auto; }\n          footer { flex-shrink: 0; }\n        "}],["$","$L2",null,{"children":["$","div",null,{"className":"page-shell","children":[["$","$L3",null,{"usedCategories":["recomp","textures"]}],["$","main",null,{"className":"page-main","children":["$","$L4",null,{"parallelRouterKey":"children","error":"$undefined","errorStyles":"$undefined","errorScripts":"$undefined","template":["$","$L5",null,{}],"templateStyles":"$undefined","templateScripts":"$undefined","notFound":[["$","section",null,{"className":"section narrow fade-in","children":[["$","h1",null,{"children":"404"}],["$","p",null,{"className":"muted","children":"That page doesn't exist."}],["$","p",null,{"children":["$","$L6",null,{"href":"/","children":"Back to the front page"}]}]]}],[]],"forbidden":"$undefined","unauthorized":"$undefined"}]}],["$","footer",null,{"className":"site-footer","children":["$","p",null,{"children":["© ",2026," ","VibinToast"," · ","Recomp, Decomp, Hacks & Texture Packs"]}]}]]}]}]]}]}]]}],{"children":["__PAGE__",["$","$1","c",{"children":[["$","section",null,{"className":"section wide hero fade-in","children":[["$","$L7",null,{}],["$","h1",null,{"className":"cursor","children":[["$","span",null,{"className":"name-vibin","children":"Vibin"}],["$","span",null,{"className":"name-toast","children":"Toast"}]]}],["$","p",null,{"className":"lead","children":"Hi, I'm VibinToast! I take old games apart and put them back together. Here you'll find my recompilation and decompilation projects, plus the texture packs I make along the way."}],["$","$L8",null,{"usedCategories":["recomp","textures"]}],["$","$L9",null,{"projects":[{"slug":"jfg-4k","title":"Jet Force Gemini HD Texture Pack","excerpt":"HD texture packs for Jet Force Gemini: Recompiled in 1K, 2K and 4K. Early alpha, so expect visual bugs.","category":"textures","date":"2026-10-10","tags":["Early alpha"],"content":"$a"},{"slug":"jfg-recomp","title":"Jet Force Gemini: Recompiled","excerpt":"A native PC port of Jet Force Gemini (N64, US) for Windows and Linux, made by static recompilation. 100% playable, with modern controls, widescreen and HD texture pack support.","category":"recomp","date":"2026-10-10","tags":["100% playable","Mouse + keyboard","Mods"],"content":"$b"}]}]]}],null,"$Lc"]}],{},null,false]},null,false],"$Ld",false]],"m":"$undefined","G":["$e",[]],"s":false,"S":true}
+0:{"P":null,"b":"JKQc4jGS9LUTHyaR2xRcg","p":"","c":["",""],"i":false,"f":[[["",{"children":["__PAGE__",{}]},"$undefined","$undefined",true],["",["$","$1","c",{"children":[[["$","link","0",{"rel":"stylesheet","href":"/_next/static/css/8c8fd3aae0aa6baf.css","precedence":"next","crossOrigin":"$undefined","nonce":"$undefined"}]],["$","html",null,{"lang":"en","className":"__variable_571da3 __variable_ee06cb","suppressHydrationWarning":true,"children":["$","body",null,{"children":[["$","style",null,{"children":"\n          html, body { min-height: 100%; }\n          .page-shell { position: relative; z-index: 1; display: flex; flex-direction: column; min-height: 100vh; }\n          .page-main { flex: 1 0 auto; }\n          footer { flex-shrink: 0; }\n        "}],["$","$L2",null,{"children":["$","div",null,{"className":"page-shell","children":[["$","$L3",null,{"usedCategories":["recomp","textures"]}],["$","main",null,{"className":"page-main","children":["$","$L4",null,{"parallelRouterKey":"children","error":"$undefined","errorStyles":"$undefined","errorScripts":"$undefined","template":["$","$L5",null,{}],"templateStyles":"$undefined","templateScripts":"$undefined","notFound":[["$","section",null,{"className":"section narrow fade-in","children":[["$","h1",null,{"children":"404"}],["$","p",null,{"className":"muted","children":"That page doesn't exist."}],["$","p",null,{"children":["$","$L6",null,{"href":"/","children":"Back to the front page"}]}]]}],[]],"forbidden":"$undefined","unauthorized":"$undefined"}]}],["$","footer",null,{"className":"site-footer","children":["$","p",null,{"children":["© ",2026," ","VibinToast"," · ","Recomp, Decomp, Hacks & Texture Packs"]}]}]]}]}]]}]}]]}],{"children":["__PAGE__",["$","$1","c",{"children":[["$","section",null,{"className":"section wide hero fade-in","children":[["$","$L7",null,{}],["$","h1",null,{"className":"cursor","children":[["$","span",null,{"className":"name-vibin","children":"Vibin"}],["$","span",null,{"className":"name-toast","children":"Toast"}]]}],["$","p",null,{"className":"lead","children":"Hi, I'm VibinToast! I take old games apart and put them back together. Here you'll find my recompilation and decompilation projects, plus the texture packs I make along the way."}],["$","$L8",null,{"usedCategories":["recomp","textures"]}],["$","$L9",null,{"projects":[{"slug":"jfg-4k","title":"Jet Force Gemini HD Texture Pack","excerpt":"HD texture packs for Jet Force Gemini: Recompiled in 1K, 2K and 4K. Early alpha, so expect visual bugs.","category":"textures","date":"2026-10-10","tags":["Early alpha"],"content":"$a"},{"slug":"jfg-recomp","title":"Jet Force Gemini: Recompiled","excerpt":"A native PC port of Jet Force Gemini (N64, US) for Windows and Linux, made by static recompilation. 100% playable, with modern controls, widescreen and HD texture pack support.","category":"recomp","date":"2026-10-10","tags":["100% playable","Mouse + keyboard","Mods"],"content":"$b"}]}]]}],null,"$Lc"]}],{},null,false]},null,false],"$Ld",false]],"m":"$undefined","G":["$e",[]],"s":false,"S":true}
 f:I[4431,[],"OutletBoundary"]
 11:I[5278,[],"AsyncMetadataOutlet"]
 13:I[4431,[],"ViewportBoundary"]
